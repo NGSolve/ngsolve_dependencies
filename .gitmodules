@@ -1,0 +1,9 @@
+[submodule "common/tcl"]
+	path = win/tcl
+	url = https://github.com/tcltk/tcl.git
+[submodule "common/tk"]
+	path = win/tk
+	url = https://github.com/tcltk/tk.git
+[submodule "common/zlib"]
+	path = win/zlib
+	url = https://github.com/madler/zlib.git
